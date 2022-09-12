@@ -1,0 +1,1 @@
+document.getElementById('myH2').textContent = 'zusatz ' + document.getElementById('myH2').textContent;

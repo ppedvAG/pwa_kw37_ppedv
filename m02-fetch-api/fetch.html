@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M02 Fetch</title>
+</head>
+<body>
+    <h1>Fetch API</h1>
+
+    <script>
+        let myRequest = new Request('https://picsum.photos/200/300');
+        for (const key in myRequest) {
+            console.log('key :>> ', key);
+            console.log('myRequest[key] :>> ', myRequest[key]);
+            console.log('------------------------------------');            
+        }
+        fetch(myRequest)
+         .then(response => console.log('response :>> ', response))
+    
+    </script>
+</body>
+</html>

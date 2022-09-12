@@ -32,6 +32,7 @@ self.addEventListener('fetch', evt => {
     if (evt.request.mode !== 'navigate') {       
         return;
     }
+    
     // Current page responds with a 200 when offline  
     evt.respondWith(
         fetch(evt.request)

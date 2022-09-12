@@ -1,0 +1,12 @@
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\bin\Debug\net6.0\BlazorAppWithPWA.Shared.deps.json
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\bin\Debug\net6.0\BlazorAppWithPWA.Shared.dll
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\bin\Debug\net6.0\BlazorAppWithPWA.Shared.pdb
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\obj\Debug\net6.0\BlazorAppWithPWA.Shared.csproj.AssemblyReference.cache
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\obj\Debug\net6.0\BlazorAppWithPWA.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\obj\Debug\net6.0\BlazorAppWithPWA.Shared.AssemblyInfoInputs.cache
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\obj\Debug\net6.0\BlazorAppWithPWA.Shared.AssemblyInfo.cs
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\obj\Debug\net6.0\BlazorAppWithPWA.Shared.csproj.CoreCompileInputs.cache
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\obj\Debug\net6.0\BlazorAppWithPWA.Shared.dll
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\obj\Debug\net6.0\refint\BlazorAppWithPWA.Shared.dll
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\obj\Debug\net6.0\BlazorAppWithPWA.Shared.pdb
+C:\Aktueller Kurs\pwa_kw37_ppedv\ASPNETCORE_Overview\BlazorAppWithPWA\Shared\obj\Debug\net6.0\ref\BlazorAppWithPWA.Shared.dll
